@@ -13,6 +13,9 @@ public class App {
         //TODO: call your test case functions one after other here
 
         tests.testCase01();
+        tests.testcase2();
+        tests.testcase3();
+      tests.testcase04();
 
         //END Tests
 
